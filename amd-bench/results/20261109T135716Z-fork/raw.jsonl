@@ -1,0 +1,12 @@
+{"count": 1, "round": 0, "fork_call_s": 0.2697169940220192, "all_ready_s": 0.47193820495158434, "forks_ok": 1}
+{"count": 1, "round": 1, "fork_call_s": 0.445291297044605, "all_ready_s": 0.6328572850907221, "forks_ok": 1}
+{"count": 1, "round": 2, "fork_call_s": 0.45779042900539935, "all_ready_s": 0.6443433250533417, "forks_ok": 1}
+{"count": 10, "round": 0, "fork_call_s": 1.3119506849907339, "all_ready_s": 1.6192521479679272, "forks_ok": 10}
+{"count": 10, "round": 1, "fork_call_s": 1.0209623790578917, "all_ready_s": 1.3370621800422668, "forks_ok": 10}
+{"count": 10, "round": 2, "fork_call_s": 1.4216560509521514, "all_ready_s": 1.733231746009551, "forks_ok": 10}
+{"count": 50, "round": 0, "fork_call_s": 3.1489453490357846, "all_ready_s": 4.2525938680628315, "forks_ok": 50}
+{"count": 50, "round": 1, "fork_call_s": 2.402634787023999, "all_ready_s": 3.4600868839770555, "forks_ok": 50}
+{"count": 50, "round": 2, "fork_call_s": 2.1545607070438564, "all_ready_s": 3.2359991379780695, "forks_ok": 50}
+{"count": 100, "round": 0, "fork_call_s": 2.7791411279467866, "all_ready_s": 5.083681297954172, "forks_ok": 100}
+{"count": 100, "round": 1, "fork_call_s": 3.1666851619957015, "all_ready_s": 5.456120679969899, "forks_ok": 100}
+{"count": 100, "round": 2, "fork_call_s": 3.0050442320061848, "all_ready_s": 5.820687875035219, "forks_ok": 100}
